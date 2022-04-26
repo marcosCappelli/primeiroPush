@@ -1,10 +1,16 @@
-git init                                                             inicializa um novo repositório
-git add .                                                            adiciona os arquivos atuais ao próximo commit
-git status                                                           verrificar o status atual dos repositórios git
-git commit -m "mensagem do commit"                                   cria um novo commit com uma mensagem
-git push                                                             envia as atualizações para a nuvem na branch atualmente ativa
-git branch                                                           permite listar e ver qual branch está ativa atualmente
-git checkout "nome-da-branch"                                        permite mudar para uma nova branch
-git checkout -b "nome da branch de origem" "nome da nova branch"     permite mudar e criar uma nova branch com base em outra
-git merge "branch a receber a merge"                                 permite fazer o merge da branch ativa atualmente com outra branch
-git pull                                                             atualiza a branch atualmenmte ativa
+git init                                                                  inicializa um novo repositório
+git add .                                                                 adiciona os arquivos atuais ao próximo commit
+git status                                                                verrificar o status atual dos repositórios git
+git commit -m "mensagem do commit"                                        cria um novo commit com uma mensagem
+git push                                                                  envia as atualizações para a nuvem na branch atualmente ativa
+git branch                                                                permite listar e ver qual branch está ativa atualmente
+git checkout "nome-da-branch"                                             permite mudar para uma nova branch
+git checkout -b "nome da branch de origem" "nome da nova branch"          permite mudar e criar uma nova branch com base em outra
+git merge "branch a receber a merge"                                      permite fazer o merge da branch ativa atualmente com outra branch
+git pull                                                                  atualiza a branch atualmenmte ativa
+ls                                                                        lista os arquivos
+git rm "nome do arquivo"                                                  remove arquivo do bach  
+git log --diff-filter=D --summary                                         comando para listar arquivos deletados
+
+git checkout "4 primeiros digitos do 
+código commit listado na pesquisa"~1 "nome do arquivo a ser restaurado"   comando para restaurar arquivo deletado
