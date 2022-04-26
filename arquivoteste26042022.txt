@@ -2,3 +2,6 @@
 Criado em 26/04/2022 através do curso Git e GitHub Completo
 ****
 Está é uma modificação deste arquivo TXT...
+
+********************************************
+Novo Git Branch sendo criado "staging" 
