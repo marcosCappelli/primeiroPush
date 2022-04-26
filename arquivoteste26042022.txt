@@ -1,0 +1,2 @@
+"Este é meu arquivo de teste do repositório Git"
+Criado em 26/04/2022 através do curso Git e GitHub Completo
